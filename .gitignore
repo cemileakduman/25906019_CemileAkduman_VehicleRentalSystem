@@ -1,0 +1,7 @@
+## Build
+bin/
+obj/
+.vs/
+*.user
+Thumbs.db
+Desktop.ini
