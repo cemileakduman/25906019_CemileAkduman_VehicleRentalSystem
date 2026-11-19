@@ -32,11 +32,31 @@ dotnet run --project AracKiralamaSistemi.csproj
 ## Proje yapısı
 
 ```
-Forms/       Arayüz formları
-Modeller/    Arac, Otomobil, Motosiklet, Musteri, Kiralama
-Arayüzler/   IKiralanabilir
-Servisler/   KiralamaYoneticisi ve iş kuralları
+Forms/          Arayüz formları
+Modeller/       Arac, Otomobil, Motosiklet, Musteri, Kiralama
+Arayüzler/      IKiralanabilir
+Servisler/      KiralamaYoneticisi ve iş kuralları
+docs/ekranlar/  Ekran görüntüleri
 Program.cs
 ```
 
 Veriler uygulama açıkken bellekte tutulur (veritabanı yok).
+
+## Ekran görüntüleri
+
+Başlangıçta örnek veri yüklü gelir: 4 araç, 3 müşteri, 2 aktif kiralama.
+
+### Ana sayfa
+![Ana sayfa](docs/ekranlar/01-dashboard.png)
+
+### Araç yönetimi
+![Araç yönetimi](docs/ekranlar/02-araclar.png)
+
+### Müşteri yönetimi
+![Müşteri yönetimi](docs/ekranlar/03-musteriler.png)
+
+### Araç kiralama
+![Araç kiralama](docs/ekranlar/04-kiralama.png)
+
+### İade / uzatma
+![İade uzatma](docs/ekranlar/05-iade.png)

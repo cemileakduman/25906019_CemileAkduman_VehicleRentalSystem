@@ -31,6 +31,5 @@ publish/
 
 ## Yerel teslim dosyalari (GitHub'da tutulmaz)
 Rapor/
-docs/
 _*.sh
 docs/_*.ps1
