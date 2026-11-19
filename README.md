@@ -8,7 +8,7 @@ C# ve Windows Forms ile yazılmış masaüstü araç kiralama uygulaması. Araç
 | Ders adı | Nesne Tabanlı Programlama |
 | Öğrenci | Cemile Akduman |
 | Okul no | 25906019 |
-| Repo | https://github.com/cemileakduman/AracKiralamaSistemi |
+| Repo | https://github.com/cemileakduman/25906019_CemileAkduman_VehicleRentalSystem |
 
 ## Özellikler
 
